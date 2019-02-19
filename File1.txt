@@ -1,7 +1,7 @@
 Hello world
 
-changing the file name -->1
+	changing the file name -->1
 
-change2 -->2
+	change2 -->2
 
-new change -->3
+	new change -->3
