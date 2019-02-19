@@ -7,3 +7,5 @@ change2 <-->2
 new change <-->3
 
 change <--> 3
+
+new change from remote <-->
